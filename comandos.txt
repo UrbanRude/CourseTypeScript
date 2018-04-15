@@ -1,0 +1,5 @@
+-- Inicializar el archivos
+>> npm init
+
+-- Instalar un servicio http para que funcione como servidor(Depencia de desarrollo)
+>> npm install http-server --save-dev

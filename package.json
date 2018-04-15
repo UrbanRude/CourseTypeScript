@@ -1,0 +1,22 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "introduccion.js",
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrbanRude/CourseTypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UrbanRude/CourseTypeScript/issues"
+  },
+  "homepage": "https://github.com/UrbanRude/CourseTypeScript#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
